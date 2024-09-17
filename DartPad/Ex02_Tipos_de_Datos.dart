@@ -13,7 +13,7 @@ void main() {
   print("""El pokemon que eligistis es: $pokemon
   la estadistica de  $pokemon son:
   Vida (HP) :  $hp
-  Estatius de vida $isAlive
+  Estatus de vida $isAlive
   habilidades $abilities 
   imagenes $sprites
   """);
