@@ -17,6 +17,6 @@ void main() {
   habilidades $abilities 
   imagenes $sprites
   """);
-
+ // hola oye
   
 }
